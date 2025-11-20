@@ -61,6 +61,15 @@ export const DATA = {
      description: "Worked as a Full Stack Developer Intern, building scalable web applications using Next.js, React, and Tailwind CSS with shadcn/ui for modern UI components. Developed RESTful APIs with Node.js and Express.js, and implemented secure authentication and backend logic. Integrated both MongoDB and PostgreSQL for handling structured and unstructured data efficiently. Collaborated on real-time features, optimized database queries, and ensured responsive design across devices.",
 
     },
+      {
+      company: "NexGen Squad",
+      badges: [],
+      location: "Remote",
+      title: "Full Stack Developer ",
+      logoUrl: "/ngs.jpeg",
+      start: "September 2025",
+
+    },
 
   ],
   education: [
@@ -154,44 +163,39 @@ export const DATA = {
           href: "https://jetplaysports.netlify.app/",
           icon: <Icons.globe className="size-3" />,
         },
-        {
-          type: "Source",
-          href: "https://github.com/magicuidesign/magicui",
-          icon: <Icons.github className="size-3" />,
-        },
+     
       ],
       image: "/jetplay.png",
       video: "",
     },
    
-       {
-      title: "Khumar-FullStackStore",
-      href: "",
-      dates: "June 2025 - July 2025",
-      active: true,
-      description:
-        "Designed and developed Khumar, a full-stack eCommerce store with a Dynamic Admin Panel using Next.js, TailwindCSS, ShadCN, and Redux Toolkit.",
+{
+  title: "Wise Guy Buys Land",
+  href: "https://www.wiseguybuysland.com/",
+  dates: "October 2025 - November 2025",
+  active: true,
+  description:
+    "Built a modern real estate landing site using Next.js and TailwindCSS with an n8n automation workflow. When the contact form is submitted, an email is automatically sent and the data is saved directly into an Excel sheet.",
 
-      technologies: [
-        "Next.js",
-        "TailwindCSS",
-        "API Integration",
-        "Stripe",
-        "Redux Toolkit"
-      
-      ],
-      links: [
-      
-        {
-          type: "Source",
-          href: "https://github.com/wadood033/Full-Stack-Ecommerce",
-          icon: <Icons.github className="size-3" />,
+  technologies: [
+    "Next.js",
+    "TailwindCSS",
+    "n8n Workflow Automation",
+    "API Integration",
+    "Excel Automation"
+  ],
+  links: [
+     {
+          type: "Website",
+          href: "https://www.wiseguybuysland.com/",
+          icon: <Icons.globe className="size-3" />,
         },
-      ],
-      image: "",
-      video: "/video.mp4",
-    },
-   
+
+  ],
+  image: "/wiseguybuysland.png",
+  video: "",
+},
+
   ],
    
   
