@@ -68,6 +68,7 @@ export const DATA = {
       title: "Full Stack Developer ",
       logoUrl: "/ngs.jpeg",
       start: "September 2025",
+      end: null,
 
     },
 
